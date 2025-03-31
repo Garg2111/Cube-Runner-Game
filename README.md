@@ -9,7 +9,7 @@ A fast-paced endless runner built with Unity! Control a cube, dodge obstacles, a
 ✅ Built using Unity  
 
 ## 📸 Screenshots  
-![Gameplay Screenshot](path/to/your/screenshot.png) *(Replace with actual image path)*  
+![Gameplay Screenshot](path/to/your/Screenshot of game.png) 
 
 ## 🛠️ Technologies Used  
 - Unity (Game Engine)  
