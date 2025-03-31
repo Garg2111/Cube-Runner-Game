@@ -23,7 +23,7 @@ The longer you last, the higher your score. Can you set a new record? 🚀
 ✅ Minimalist design with smooth controls  
 ✅ Built using Unity  
 
-![Watch the demo video](https://github.com/user-attachments/assets/76cd9581-4e4b-4cc8-a7e7-3b5512bc5692)
+[Watch the demo video](https://github.com/user-attachments/assets/76cd9581-4e4b-4cc8-a7e7-3b5512bc5692)
 
 ## 📸 Screenshots  
 ![Gameplay Screenshot](IMAGE/Screenshot.png) 
