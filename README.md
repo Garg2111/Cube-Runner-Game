@@ -1,5 +1,4 @@
 # 🏃‍♂️ Cube Runner 🚀  
-
 A fast-paced endless runner built with Unity! Control a cube, dodge obstacles, and test your reflexes as you speed through an ever-changing track. Developed as a learning project to explore Unity game development. 🎮  
 
 ## 📌 Table of Contents   
@@ -37,7 +36,6 @@ The longer you last, the higher your score. Can you set a new record? 🚀
 - Move Left: **A** / Left Arrow  
 - Move Right: **D** / Right Arrow  
 3. Avoid obstacles and survive as long as possible!
-
 
 ## 📥 Installation  
 1. Clone the repository:  
