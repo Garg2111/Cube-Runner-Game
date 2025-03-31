@@ -24,3 +24,11 @@ A fast-paced endless runner built with Unity! Control a cube, dodge obstacles, a
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/cube-runner.git
+2. Open the project in Unity.
+3. Press Play and start running!
+
+## 🤝 Contributing
+Feel free to fork the repo, submit issues, or contribute improvements!
+
+## 📜 License
+This project is open-source and available under the Apache 2.0 License.
